@@ -1,5 +1,7 @@
 ### Hello :wave:, I'm Aris
 
+Rehat sejenak nikmati pemandangan menyegarkan mata dan pikiran JANGAN NGODING TEROOS 🤪, PEACE ✌
+
 ![](bg.jpeg)
 
 ## Links
