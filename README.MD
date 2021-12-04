@@ -20,6 +20,3 @@
   <br/>
   <b>Note:</b>  ⚠ This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
-
----
-[![](https://github-readme-stats.vercel.app/api/pin/?username=abdularis&repo=libwebrtc-android)](https://github.com/abdularis/libwebrtc-android)
